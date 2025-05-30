@@ -1,0 +1,26 @@
+{
+    "123": {
+        "aluno": "guilherme",
+        "semestres": {
+            "7": {
+                "Seguran\u00e7a cibernetica": 9.0
+            }
+        }
+    },
+    "1": {
+        "aluno": "guilherme",
+        "semestres": {
+            "5": {
+                "linguagem em c": "8"
+            }
+        }
+    },
+    "12345": {
+        "aluno": "omar",
+        "semestres": {
+            "3": {
+                "python": "9"
+            }
+        }
+    }
+}
